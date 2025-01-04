@@ -9,4 +9,7 @@
     "no-unused-vars": "warn", // Warn about unused variables
     "semi": ["error", "always"], // Enforces semicolons as per your preference
   },
+  "env": {
+    "browser": true, // Adds predefined global variables from the browser environment
+  },
 }

@@ -1,6 +1,5 @@
 {
   "semi": true,
   "singleQuote": false,
-  "endOfLine": "lf",
-  "comma-dangle": ["error", "always-multiline"]
+  "endOfLine": "lf"
 }
